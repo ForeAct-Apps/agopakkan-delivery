@@ -1,0 +1,3 @@
+:HL["/agopakkan-delivery/_next/static/chunks/3oyxbwyvt1_lv.css","style"]
+:HL["/agopakkan-delivery/_next/static/chunks/0flyjzewp5qr5.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"3VCohu4lZbS77YL6dBXJU"}

@@ -1,0 +1,5 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="トッピングのプレースホルダー画像">
+  <rect width="200" height="200" fill="#FBEBC6"/>
+  <circle cx="100" cy="100" r="52" fill="#F2C037"/>
+  <circle cx="100" cy="100" r="52" fill="none" stroke="#C9601F" stroke-width="4"/>
+</svg>

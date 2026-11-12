@@ -1,0 +1,8 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="ハンバーガーのプレースホルダー画像">
+  <rect width="200" height="200" fill="#F2E4C8"/>
+  <ellipse cx="100" cy="70" rx="70" ry="34" fill="#E3A24B"/>
+  <rect x="34" y="90" width="132" height="14" fill="#7FA855"/>
+  <rect x="30" y="104" width="140" height="26" fill="#8A5A34"/>
+  <rect x="34" y="130" width="132" height="12" fill="#D9782F"/>
+  <path d="M30 142 Q100 172 170 142 L170 156 Q100 184 30 156 Z" fill="#E8C077"/>
+</svg>

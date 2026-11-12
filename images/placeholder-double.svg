@@ -1,0 +1,9 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="ダブルバーガーのプレースホルダー画像">
+  <rect width="200" height="200" fill="#F1DFC0"/>
+  <ellipse cx="100" cy="58" rx="68" ry="28" fill="#DF9A3E"/>
+  <rect x="36" y="74" width="128" height="10" fill="#7FA855"/>
+  <rect x="32" y="84" width="136" height="18" fill="#7A4E2C"/>
+  <rect x="36" y="102" width="128" height="10" fill="#D9782F"/>
+  <rect x="32" y="112" width="136" height="18" fill="#8A5A34"/>
+  <path d="M32 130 Q100 156 168 130 L168 144 Q100 170 32 144 Z" fill="#E8C077"/>
+</svg>
